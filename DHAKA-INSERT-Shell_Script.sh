@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Damodar Reddy G.L
+# Author: 
 # Author's Designation: BI Developer
 # Script Created Date: 2024-06-14
 # Purpose: This script transfers data between databases and fills data gaps in the specified time intervals for the Fascia system.
